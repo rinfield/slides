@@ -1,5 +1,5 @@
 ## Scalaでー石三鳥<br>(JVM, JS, Native)
-##### <a href="https://github.com/rinfield" target="_blank">@rinfield</a>
+##### Ryo Uchino aka <a href="https://github.com/rinfield" target="_blank">@rinfield</a>
 
 Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
 <a href="https://github.com/rinfield/slides/tree/20170810" target="_blank">source</a>
@@ -9,7 +9,7 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
 ## 自己紹介
 
 - <a href="https://github.com/rinfield" target="_blank">@rinfield</a> (<a href="https://github.com/idm-ryou" target="_blank">@idm-ryou</a>)
-- 結人束人開発チーム
+- レペゼン 結人束人開発チーム
 - 入社 `0x0C` 年目 |
   ```scala
   scala> 0x0C
@@ -34,8 +34,9 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
 
 ## Scalaとは
 
-- 関数型とオブジェクト指向のハイブリッド言語
-- 細かいことはググれ
+- 関数型とオブジェクト指向のハイブリッド**プログラミング言語**
+- Javaなんかより書いてて気持ちいい
+- 自分が使いたいから布教中
 
 ---
 
@@ -44,6 +45,21 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
 - Scala勉強会
 - Scala on Android 研修オブザーバー
 - IKS投稿
-  - Scala
-  - Scala.js
 - グルコミ投稿
+
+---
+
+## 布教の結果
+
+- 同じ課の教え子2人は転職… |
+- 他社で元気にScala書いてます… |
+- 😡💢弊社で使いたかったのにな❗ |
+
+---
+
+## 私の周りのScala採用状況
+
+- LDIF→CSVコンバーター() |
+- IBIS ADグループ棚卸し |
+- IBIS メーリングリスト棚卸し |
+- 😡💢オレの独断の範囲でしか使えてないな❗ |
