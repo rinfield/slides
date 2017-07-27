@@ -1,4 +1,4 @@
-## Scalaでー石三鳥(JVM, JavaScript, ネイティブ)
+## Scalaでー石三鳥 (JVM, JavaScript, ネイティブ)
 ##### @rinfield
 
 Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
