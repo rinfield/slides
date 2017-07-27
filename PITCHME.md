@@ -13,7 +13,7 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
   scala> 0x0C
   res0: Int = 12
   ```
-<!-- .element: class="fragment" -->
+|
 - Scalaおじさん |
 - GitHubおじさん |
 
