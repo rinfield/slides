@@ -12,7 +12,7 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
   ```scala
   scala> 0x0C
   res0: Int = 12
-  ``` |
+  ```
 * Scalaおじさん |
 * GitHubおじさん |
 
