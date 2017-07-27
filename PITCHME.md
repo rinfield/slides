@@ -6,15 +6,15 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
 
 ---
 
-#### 自己紹介
+## 自己紹介
 
 * `0x0C`年目 (!!)
   ```scala
   scala> 0x0C
   res0: Int = 12
-  ```
-* Scalaおじさん
-* GitHubおじさん
+  ``` |
+* Scalaおじさん |
+* GitHubおじさん |
 
 ---
 
