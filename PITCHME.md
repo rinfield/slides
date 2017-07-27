@@ -1,4 +1,4 @@
-## Scalaでー石三鳥<br>(JVM, JavaScript, ネイティブ)
+## Scalaでー石三鳥<br>(JVM, JS, Native)
 ##### @rinfield
 
 Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
@@ -22,11 +22,11 @@ Powered by <a href="https://gitpitch.com/" target="_blank">GitPitch</a> |
 
 ## なぜここに？
 
-- 小田さんに😁「LTやろうかなー」
+- 小田さんに😁「LTやろうかなー」 |
 - 案内で確定になってる💦 |
   - 🤔.oO(若手じゃないしスプラトゥーンやりたい) |
-- 2年目の若手に頼む🙏
-- 😒「また今度」
-- 😡💢
+- 2年目の若手に頼む🙏 |
+- 😒「また今度」 |
+- 😡💢 |
 
 ---
