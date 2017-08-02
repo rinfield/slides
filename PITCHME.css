@@ -5,3 +5,7 @@
 .reveal pre code {
     max-height: none;
 }
+
+.reveal ul {
+    font-size: 1.5em;
+}
