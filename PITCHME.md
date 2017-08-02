@@ -71,10 +71,10 @@ object FizzBuzz extends App {
 ---
 # 既にこんなところで使われています！
 ---
-## NASA
-## Twitter |
-## Netflix |
-## その他有名企業も！ |
+- NASA
+- Twitter |
+- Netflix |
+- その他有名企業も！ |
 ---
 # 今Javaをお使いのあなた！
 ---
@@ -82,7 +82,7 @@ object FizzBuzz extends App {
 ---
 # それだけじゃないんです！
 ---
-# ​今回はなんと…
+# 今回はなんと…
 ---
 # JSにコンパイルできるツールもお付けしちゃいます🎁
 ---
