@@ -7,7 +7,7 @@
 ---
 # 今話題のプログラミング言語！
 ---
-# Scala
+# ![Scala](http://www.lyh.me/slides/images/scala-logo.png)
 ---
 # こんなことにお困りでは？
 ---
