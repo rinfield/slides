@@ -71,7 +71,7 @@ object FizzBuzz extends App {
 ---
 # ✅既にこんなところで使われています
 ---
-- <img src="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" width="20%" height="20%">
+<img src="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" width="50%" height="50%" class="fragment">
 - Twitter |
 - Netflix |
 - その他有名企業も！ |
