@@ -2,6 +2,6 @@
     text-transform: none;
 }
 
-code {
+.reveal pre code {
     max-height: none;
 }
