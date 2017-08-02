@@ -65,13 +65,13 @@ object FizzBuzz extends App {
 #### 柔軟な構文＆型推論
 ---
 # 🚀パフォーマンスはJavaと同等
-#### JVMで動作、スクリプト言語には負けません！
+#### JVMで動作、スクリプト言語には負けません
 ---
 # 🔍Typoなどの間違いもすぐに検出
 ---
 # ✅既にこんなところで使われています
 ---
-- ![NASA](https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png)
+- <img src="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" width="20%" height="20%">
 - Twitter |
 - Netflix |
 - その他有名企業も！ |
