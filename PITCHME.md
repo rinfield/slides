@@ -74,6 +74,7 @@ object FizzBuzz extends App {
 <img src="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" width="40%" height="40%" class="fragment">
 <img src="https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png" width="40%" height="40%" class="fragment">
 <img src="https://p13.zdassets.com/hc/settings_assets/830444/200181708/3kZZmx88qLvtPxQcrCE1og-netflix-logo-small.png" width="40%" height="40%" class="fragment">
+
 - その他有名企業も！ |
 ---
 # 👀今Javaをお使いのあなた❗️
