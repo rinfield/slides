@@ -142,7 +142,7 @@ object FizzBuzz extends App {
 # おアクセスお待ちしております
 ## http://www.scala-lang.org/
 ---
-# 謝罪🙇
+# お詫びと訂正🙇
 ---
 # Javaのコード意図的に冗長にしてました🙇
 ---
