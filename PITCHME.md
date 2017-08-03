@@ -48,14 +48,12 @@ public class FizzBuzz {
 
 ```scala
 object FizzBuzz extends App {
-  (1 to 30).map { i =>
-    (i % 3 == 0, i % 5 == 0) match {
-      case (true,  false) => "Fizz"
-      case (false, true)  => "Buzz"
-      case (true,  true)  => "FizzBuzz"
-      case _              => i.toString
-    }
-  }.foreach(println)
+  (1 to 30).map(i => (i % 3 == 0, i % 5 == 0) match {
+    case (true,  false) => "Fizz"
+    case (false, true)  => "Buzz"
+    case (true,  true)  => "FizzBuzz"
+    case _              => i.toString
+  }).foreach(println)
 }
 ```
 ---
