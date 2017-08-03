@@ -143,3 +143,54 @@ object FizzBuzz extends App {
 ---
 # おアクセスお待ちしております
 ## http://www.scala-lang.org/
+---
+# 謝罪🙇
+---
+# Javaのコード意図的に冗長にしてました🙇
+---
+#### Before
+
+```java
+public class FizzBuzz {
+  public static void main(String[] args) {
+    for(int i = 1; i <= 30; i++) {
+      boolean isDividableWith3 = i % 3 == 0;
+      boolean isDividableWith5 = i % 5 == 0;
+      String result;
+      if(isDividableWith3 && isDividableWith5) {
+        result = "FizzBuzz";
+      } else if(isDividableWith3) {
+        result = "Fizz";
+      } else if(isDividableWith5) {
+        result = "Buzz";
+      } else {
+        result = Integer.toString(i);
+      }
+      System.out.println(result);
+    }
+  }
+}
+```
+---
+#### After
+
+```java
+public class FizzBuzz {
+  public static void main(String... args) {
+    Stream.iterate(1, i -> i + 1).limit(30).map(i -> {
+      String result = Integer.toString(i);
+      result = (i % 3  == 0) ? "Fizz"     : result;
+      result = (i % 5  == 0) ? "Buzz"     : result;
+      result = (i % 15 == 0) ? "FizzBuzz" : result;
+      return result;
+    }).forEach(System.out::println);
+  }
+}
+```
+---
+# Javaもガンバレばこんくらいにはなりますね😔
+---
+## Javaのイマイチポイント
+- 🤔Tupleがないので割り切れるかどうか3回チェックしてる
+- 🤔パターンマッチがないので三項演算子を代用してる
+- 🤔セミコロン！
