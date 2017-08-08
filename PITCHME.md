@@ -18,7 +18,7 @@
 ---
 # もう大丈夫です💡
 ---
-# コード量が増えてお困りの方✋
+# コード量が増えて<br>お困りの方✋
 ---
 #### JavaのFizzBuzz🤔
 
@@ -57,21 +57,21 @@ object FizzBuzz extends App {
 }
 ```
 ---
-# 見て下さい❗️このボデー‼️⤴️⤴️
+# 見て下さい❗️<br>このボデー‼️⤴️⤴️
 ---
-# キレイなコードを保つことができます✨
+# 美しいコードを<br>保つことができます✨
 #### 柔軟な構文＆型推論
 ---
 # 🚀パフォーマンスはJavaと同等
 #### JVMで動作、スクリプト言語には負けません
 ---
-# 🔍Typoなどの間違いもすぐに検出
+# 🔍Typoなどの<br>間違いもすぐに検出
 ---
 # ✅既にこんなところで使われています
 ---
 <img src="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" width="40%" height="40%" class="fragment">
 <img src="https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png" width="40%" height="40%" class="fragment">
-<img src="https://p13.zdassets.com/hc/settings_assets/830444/200181708/3kZZmx88qLvtPxQcrCE1og-netflix-logo-small.png" width="40%" height="40%" class="fragment">
+<img src="https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg" width="40%" height="40%" class="fragment">
 
 - その他有名企業も！ |
 ---
