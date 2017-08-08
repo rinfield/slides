@@ -133,7 +133,7 @@ object FizzBuzz extends App {
 ---
 # ガンバらせて頂きました
 ---
-# 何と5000兆円引きの
+# 何と<br>![500兆円](./images/5000chouen.png)<br>引きの
 ---
 # 0円❗️
 ---
