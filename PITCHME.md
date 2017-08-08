@@ -134,7 +134,7 @@ object FizzBuzz extends App {
 # ガンバらせて頂きました
 ---
 # 何と
-![5000兆円](images/5000chouen.png)
+<img src="https://raw.githubusercontent.com/rinfield/slides/20170810/images/5000chouen.png" alt="5000兆円" width="150%" height="150%">
 # 引きの
 ---
 # 0円❗️
