@@ -20,12 +20,18 @@
 ---
 # コード量が増えて<br>お困りの方✋
 ---
+## FizzBuzz
+- 1から100までの数をプリントするプログラム
+- ただし3の倍数のときは数の代わりに｢Fizz｣
+- 5の倍数のときは｢Buzz｣とプリント
+- 3と5両方の倍数の場合には｢FizzBuzz｣とプリントする
+---
 #### JavaのFizzBuzz🤔
 
 ```java
 public class FizzBuzz {
   public static void main(String[] args) {
-    for(int i = 1; i <= 30; i++) {
+    for(int i = 1; i <= 100; i++) {
       boolean isDividableWith3 = i % 3 == 0;
       boolean isDividableWith5 = i % 5 == 0;
       String result;
@@ -48,7 +54,7 @@ public class FizzBuzz {
 
 ```scala
 object FizzBuzz extends App {
-  (1 to 30).map(i => (i % 3 == 0, i % 5 == 0) match {
+  (1 to 100).map(i => (i % 3 == 0, i % 5 == 0) match {
     case (true,  false) => "Fizz"
     case (false, true)  => "Buzz"
     case (true,  true)  => "FizzBuzz"
@@ -153,7 +159,7 @@ object FizzBuzz extends App {
 ```java
 public class FizzBuzz {
   public static void main(String[] args) {
-    for(int i = 1; i <= 30; i++) {
+    for(int i = 1; i <= 100; i++) {
       boolean isDividableWith3 = i % 3 == 0;
       boolean isDividableWith5 = i % 5 == 0;
       String result;
@@ -177,7 +183,7 @@ public class FizzBuzz {
 ```java
 public class FizzBuzz {
   public static void main(String... args) {
-    Stream.iterate(1, i -> i + 1).limit(30).map(i -> {
+    Stream.iterate(1, i -> i + 1).limit(100).map(i -> {
       String result = Integer.toString(i);
       result = (i % 3  == 0) ? "Fizz"     : result;
       result = (i % 5  == 0) ? "Buzz"     : result;
