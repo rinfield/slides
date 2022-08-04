@@ -1,4 +1,4 @@
-FROM node:18-bullseye-slim
+FROM mcr.microsoft.com/playwright:v1.24.2-focal
 
 ENV TZ=Asia/Tokyo \
     LANG=C.UTF-8
